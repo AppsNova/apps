@@ -20,12 +20,12 @@
     "AdInterval"  : 2,
     "NativeAdRow" : 20,
 
-    "BannerNetwork"        : "admob",
+    "BannerNetwork"        : "",
     "InterstitialNetwork"  : "admob",
     "InterstitialSPNetwork": "",
     "NativeNetwork"        : "",
-    "RewardNetwork"        : "admob",
-    "OpenAdNetwork"        : "admob",
+    "RewardNetwork"        : "",
+    "OpenAdNetwork"        : "",
 
     "AdPlacement": {
 
