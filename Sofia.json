@@ -1,0 +1,64 @@
+{
+  "AppRedirect": {
+    "storeInstaller" : false,
+    "updateStatus"   : false,
+    "redirectURL"    : "https://play.google.com/store/apps/details?id=com.fakeChat.granny.pinkStudio"
+  },
+
+  "AdsController": {
+
+    "README": [
+      "To run ads for each network, enter one of this : 'admob' , 'applovin' , 'promote' ",
+      "⚠️Warning: OpenAd work only on admob at time.",
+      "When use OpenAd, the Interstitial Splash not working !"
+    ],
+
+    "ShowAds"     : true,
+    "ShowAdTest"  : false,
+    "ShowAdAlert" : true,
+    "ForceOpenAd" : true,
+    "AdInterval"  : 2,
+    "NativeAdRow" : 20,
+
+    "BannerNetwork"        : "admob",
+    "InterstitialNetwork"  : "admob",
+    "InterstitialSPNetwork": "admob",
+    "NativeNetwork"        : "admob",
+    "RewardNetwork"        : "admob",
+    "OpenAdNetwork"        : "admob",
+
+    "AdPlacement": {
+
+      "AdMobBanner"        : "",
+      "AdMobInterstitial"  : "",
+      "AdMobInterstitialSP": "",
+      "AdMobNative"        : "",
+      "AdMobReward"        : "",
+      "AdMobOpenAd"        : "",
+
+      "FacebookBanner"        : "721902803077352_621904523077183",
+      "FacebookInterstitial"  : "721902803077352_621905109743791",
+      "FacebookInterstitialSP": "721902803077352_621905109743791",
+      "FacebookNative"        : "721902803077352_621906106410358",
+      "FacebookReward"        : "721902803077352_621906723076963",
+
+      "ApplovinKey"           : "applovinSDK",
+      "ApplovinBanner"        : "a7bf30eabe1c0bf6",
+      "ApplovinInterstitial"  : "1235bf0aaaee5d6f",
+      "ApplovinInterstitialSP": "1235bf0aaaee5d6f",
+      "ApplovinNative"        : "f30a305e1fb5ded4",
+      "ApplovinReward"        : "1564701d3670a040",
+      "ApplovinOpenAd"        : "ef5a7c2335bbcf0d"
+
+    },
+
+    "AdPromote": [
+
+    ]
+  },
+
+  "appData": {
+    "status" : false,
+    "contact": []
+  }
+}
